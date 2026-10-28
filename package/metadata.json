@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "f.suchkov@gmail.com",
+                "Name": "Fedor Suchkov"
+            }
+        ],
+        "Description": "Multiple countdown timers in one widget",
+        "Icon": "clock",
+        "Id": "com.github.kido5217.multitimer",
+        "License": "MIT",
+        "Name": "Multitimer",
+        "Version": "0.1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
