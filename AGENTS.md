@@ -4,7 +4,7 @@ KDE Plasma plasmoid (timer widget).
 
 ## Git workflow
 
-`main` is a protected branch on GitHub (`kido5217/multitimer-plasmoid`): changes reach it only through a pull request with one approving review. Force pushes and deletion are blocked.
+`main` is a protected branch on GitHub (`kido5217/multitimer-plasmoid`): changes reach it only through a pull request. No approving review is required — the author merges their own PR. Force pushes and deletion are blocked.
 
 The cycle for every change, in order:
 
